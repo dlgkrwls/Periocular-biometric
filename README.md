@@ -65,7 +65,10 @@ RockSiN/
 ## 📊 Demo
 
 We provide a web-based demo to test the model with your own images. 
-*(Instructions for running the demo will be added here)*
+<img width="1512" height="831" alt="image" src="https://github.com/user-attachments/assets/a512d2a4-d9f5-4217-a1f4-90418eb3c980" />
+<img width="1521" height="834" alt="image" src="https://github.com/user-attachments/assets/86e65b3d-daa6-410a-880b-0007ba9b0124" />
+
+
 
 ## 📝 License
 
